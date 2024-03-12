@@ -25,4 +25,6 @@ class Car:
 
 o1 = Car("lambo")
 o1.printvars()
+print(o1._protected)
+print(o1.printvars)
 
